@@ -1,0 +1,53 @@
+{
+  "cafe_name": "The Cozy Corner Cafe",
+  "menu": [
+    {
+      "id": "1",
+      "name": "Artisan Cappuccino",
+      "description": "Espresso with steamed milk and a rich layer of silky foam.",
+      "price": 3.50,
+      "category": "Drinks",
+      "image_url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Cappuccino"
+    },
+    {
+      "id": "2",
+      "name": "Matcha Green Tea Latte",
+      "description": "Premium Japanese matcha whisked with lightly sweetened steamed milk.",
+      "price": 4.20,
+      "category": "Drinks",
+      "image_url": "https://via.placeholder.com/150/33FF57/000000?text=Matcha+Latte"
+    },
+    {
+      "id": "3",
+      "name": "Fresh Berry Smoothie",
+      "description": "A refreshing blend of strawberries, blueberries, raspberries, and apple juice.",
+      "price": 4.80,
+      "category": "Drinks",
+      "image_url": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Smoothie"
+    },
+    {
+      "id": "4",
+      "name": "Avocado Sourdough Toast",
+      "description": "Mashed avocado, cherry tomatoes, and a sprinkle of chili flakes on toasted artisanal sourdough.",
+      "price": 6.50,
+      "category": "Food",
+      "image_url": "https://via.placeholder.com/150/F3FF33/000000?text=Avocado+Toast"
+    },
+    {
+      "id": "5",
+      "name": "Classic Butter Croissant",
+      "description": "Flaky, golden-brown pastry baked fresh daily.",
+      "price": 2.50,
+      "category": "Food",
+      "image_url": "https://via.placeholder.com/150/FF33F3/FFFFFF?text=Croissant"
+    },
+    {
+      "id": "6",
+      "name": "Blueberry Muffin",
+      "description": "Moist, fluffy muffin packed with juicy wild blueberries and a sweet crumb topping.",
+      "price": 3.00,
+      "category": "Food",
+      "image_url": "https://via.placeholder.com/150/33FFF3/000000?text=Muffin"
+    }
+  ]
+}
